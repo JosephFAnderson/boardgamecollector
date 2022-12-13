@@ -1,1 +1,3 @@
-// Joining point of collections
+const User = require('./User');
+
+module.exports = { User };
